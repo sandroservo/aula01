@@ -1,0 +1,5 @@
+mkdir =>cria pasta
+ls => lista pasta
+touch criar arquivo
+nano  editor de text
+cd .. volta
